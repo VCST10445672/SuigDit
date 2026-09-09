@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|c:\\users\\emeris\\desktop\\werk\\prog6212\\ice4\\ice4\\controllers\\studentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|solutionrelative:ice4\\controllers\\studentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|c:\\users\\emeris\\desktop\\werk\\prog6212\\ice4\\ice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|solutionrelative:ice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|c:\\users\\emeris\\desktop\\werk\\prog6212\\ice4\\ice4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|solutionrelative:ice4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|c:\\users\\emeris\\desktop\\werk\\prog6212\\ice4\\ice4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|solutionrelative:ice4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|c:\\users\\emeris\\desktop\\werk\\prog6212\\ice4\\ice4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17F9280-3C51-4347-9CB2-DD215930C5BC}|ICE4\\ICE4.csproj|solutionrelative:ice4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Controllers\\StudentsApiController.cs",
+              "RelativeDocumentMoniker": "ICE4\\Controllers\\StudentsApiController.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Controllers\\StudentsApiController.cs",
+              "RelativeToolTip": "ICE4\\Controllers\\StudentsApiController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:34:26.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Program.cs",
+              "RelativeDocumentMoniker": "ICE4\\Program.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Program.cs",
+              "RelativeToolTip": "ICE4\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:31:49.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\appsettings.json",
+              "RelativeDocumentMoniker": "ICE4\\appsettings.json",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\appsettings.json*",
+              "RelativeToolTip": "ICE4\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-08T07:15:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ICE4\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ICE4\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T06:58:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ICE4\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\emeris\\Desktop\\Werk\\PROG6212\\ICE4\\ICE4\\Models\\Student.cs",
+              "RelativeToolTip": "ICE4\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T06:29:51.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
